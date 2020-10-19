@@ -11,3 +11,7 @@ Something something some
 blablabla
 
 ## How to contribute
+
+## Copyright
+
+2020 GIT.Training.
