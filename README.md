@@ -11,6 +11,7 @@ Something something some
 blablabla
 
 ## How to contribute
+please fork this repository and then issue pull requests for review.
 
 ## Copyright
 
