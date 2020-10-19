@@ -5,7 +5,9 @@ This is a simple website for showing some stuff.
 This is something.
 
 ## Purpose
+Something something some
 
 ## Deployment
+blablabla
 
 ## How to contribute
